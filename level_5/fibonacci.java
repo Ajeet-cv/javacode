@@ -7,13 +7,21 @@ public class fibonacci {
     System.out.println("Please enter the no of term");
     int term=input.nextInt();
     System.out.println("fibonacci series is :");
-    System.out.println(fib(term));
+    for(int i=1;i<=term;i++){
+    System.out.print(fib(i)+" ");
+    }
    } 
    public static int fib(int term){
-    if(term==1)
+    if(term<=1){
         return 0;
-    if(term==2)
-        return 1;
-    return fib(term-1)+fib(term-2);
+    }
+    if(term==2){
+   // System.out.println("1");
+    return 1;
+    }
+    else{
+       
+     return fib(term-1)+fib(term-2);
+    }
    }
 }
