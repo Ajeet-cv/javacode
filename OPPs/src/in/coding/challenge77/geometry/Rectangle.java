@@ -1,4 +1,4 @@
-package in.coding.challenge77.util.geometry;
+package in.coding.challenge77.geometry;
 
 public class Rectangle {
     public int length;

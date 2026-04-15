@@ -1,7 +1,7 @@
-package in.coding.challenge77.util;
+package in.coding.challenge77;
 
-import in.coding.challenge77.util.geometry.Rectangle;
-import in.coding.challenge77.util.geometry.circle;
+import in.coding.challenge77.geometry.Rectangle;
+import in.coding.challenge77.geometry.circle;
 
 public class Calculator {
     static void main() {

@@ -1,4 +1,5 @@
 package in.coding.challange83;
 
-public class Shape {
+public abstract class Shape {
+    public abstract double calculatearea();
 }
