@@ -1,10 +1,15 @@
-/*
+/*                           Experiment-3
+
+  Name-> AJEET CHAURASIYA
+  Section-> CSE 11
+  Roll no.-> 2400320100111
+  
     Write a program that takes input from user through command line argument and then prints whether a number is prime or not
      */
 
 import java.util.Scanner;
 
-public class primeno {
+public class Experiment_03 {
    public static void main(String[] args) {
        Scanner input=new Scanner(System.in);
        System.out.println("Please enter the number:");

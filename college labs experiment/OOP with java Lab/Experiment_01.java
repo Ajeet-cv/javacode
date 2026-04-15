@@ -1,5 +1,6 @@
-/*
-  Name-> Ajeet Chaurasiya
+/*                        Experiment-1
+
+  Name-> AJEET CHAURASIYA
   Section-> CSE 11
   Roll no.-> 2400320100111
   
@@ -8,7 +9,7 @@
   */
 import java.util.Scanner;
 
-public class addmatrix {
+public class Experiment_01 {
      public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         System.out.println("Enter the no of row: ");

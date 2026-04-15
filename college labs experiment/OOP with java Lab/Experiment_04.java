@@ -1,8 +1,14 @@
- /*   Write a program to enter number through command line and check whether it is palindrome or not.
+ /*                          Experiment-4
+
+  Name-> AJEET CHAURASIYA
+  Section-> CSE 11
+  Roll no.-> 2400320100111
+  
+  Write a program to enter number through command line and check whether it is palindrome or not.
   */
  import java.util.Scanner;
 
-public class Palindrome {
+public class Experiment_04 {
    public static void main(String[] args) {
       Scanner input=new Scanner(System.in);
       System.out.println("Please enter the no.");

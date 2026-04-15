@@ -1,9 +1,15 @@
-/*  Write a program in Java which creates the variable size array (Jagged Array) and print all the values using loop statement.
+/*                            Experiment-2
+
+  Name-> AJEET CHAURASIYA
+  Section-> CSE 11
+  Roll no.-> 2400320100111
+  
+Write a program in Java which creates the variable size array (Jagged Array) and print all the values using loop statement.
  */
 
 import java.util.Scanner;
 
-public class jaggedarray {
+public class Experiment_02 {
     public static void main(String[] args) {
 
         int[][] arr = new int[3][];

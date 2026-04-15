@@ -1,4 +1,10 @@
-/*   Write a Java program to create a Student class, initialize student details using a parameterized constructor, and display the student information using class objects and member functions.
+/*                             Experiment-5
+
+  Name-> AJEET CHAURASIYA
+  Section-> CSE 11
+  Roll no.-> 2400320100111
+   
+ Write a Java program to create a Student class, initialize student details using a parameterized constructor, and display the student information using class objects and member functions.
  */
 class studentclass {
     int id;
@@ -15,7 +21,7 @@ class studentclass {
     }
 }
 
-public class StudentDemo {
+public class Experiment_05 {
     public static void main(String[] args) {
 
         studentclass s1 = new studentclass(101, "Ajeet");
